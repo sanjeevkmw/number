@@ -1,0 +1,28 @@
+{
+  "name": "number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeevkmw/number.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeevkmw/number/issues"
+  },
+  "homepage": "https://github.com/sanjeevkmw/number#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@types/node": "^22.13.1",
+    "nodemon": "^3.1.9"
+  }
+}
